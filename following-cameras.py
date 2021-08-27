@@ -1,4 +1,5 @@
 from manim import *
+import numpy as np
 
 class FollowingGraphCamera(MovingCameraScene):
     def construct(self):
