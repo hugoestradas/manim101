@@ -16,3 +16,4 @@ class TracedPathExample(Scene):
 
         # Shift the circle to 8*RIGHT
         self.play(rolling_circle.animate.shift(8*RIGHT), run_time=4, rate_func=linear)
+        
