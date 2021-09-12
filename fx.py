@@ -1,4 +1,4 @@
-%%manim -qm -v WARNING FunctionExample
+%%manim -i -qh -o func_example FunctionExample
 import numpy as np
 
 class FunctionExample(Scene):
