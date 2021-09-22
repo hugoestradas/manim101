@@ -1,6 +1,5 @@
 from manim import *
 
-
 class GroupCircles(Scene):
     def construct(self):
         # Create circles
